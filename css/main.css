@@ -27,7 +27,7 @@ html {
   transform-origin: 50% calc(100% - 8px);
 }
 
-.hand-mintue {
+.hand-minute {
   animation: hand-rotate .5s linear infinite;
 }
 
